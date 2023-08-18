@@ -1963,3 +1963,9 @@ body {
 .navbar{
     min-height: 66px;
 }
+
+
+.gallery-image{
+    height: 250px;
+    width:100px;
+}
